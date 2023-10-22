@@ -1,0 +1,14 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+body {
+  height: 100vh;
+}
+
+#app {
+  height: 100%;
+}
